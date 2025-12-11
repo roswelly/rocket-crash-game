@@ -7,7 +7,7 @@
 
 # contact 
 - [Telegram](https://t.me/roswellecho) 
-- [Twitter](https://x.com/roswellecho)
+- [Twitter](https://x.com/roswellyecho)
 ---
 
 ## Features
